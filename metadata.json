@@ -1,0 +1,6 @@
+{
+  "name": "Shopfloor Allocation",
+  "description": "An MES system to automatically allocate operators to machines & assembly lines based on skill levels, attendance, and priority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
